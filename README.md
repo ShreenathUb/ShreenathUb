@@ -69,14 +69,4 @@ Aspiring AI and Data Science professional with a strong foundation in programmin
   </a>
 </p>
 
-## 📊 Contribution Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=shreenathub&theme=react-dark" />
-</p>
 
-<!-- GitHub Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shreenathub/yourusername/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shreenathub/yourusername/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shreenathub/yourusername/output/github-contribution-grid-snake.svg">
-</picture>
