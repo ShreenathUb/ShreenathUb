@@ -13,9 +13,7 @@ Aspiring AI and Data Science professional with a strong foundation in programmin
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shreenathub&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreenathub&layout=compact&theme=tokyonight" />
-</p>
+
 
 ## 🎓 Education
 - **B.Tech in Artificial Intelligence and Data Science** (2022-2026)  
