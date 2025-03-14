@@ -17,7 +17,7 @@ Aspiring AI and Data Science professional with a strong foundation in programmin
 
 ## 🎓 Education
 - **B.Tech in Artificial Intelligence and Data Science** (2022-2026)  
-  Vishwakarma Institute of Technology, Pune  
+  Vishwakarma Institute of Technology, Pune.  
 
 
 ## 💻 Technical Skills
