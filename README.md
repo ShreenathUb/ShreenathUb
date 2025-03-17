@@ -3,7 +3,7 @@
 ## 🚀 About Me
 Aspiring AI and Data Science professional with a strong foundation in programming, web development, and machine learning. Passionate about solving complex problems and creating innovative solutions with real-world impact. 
 
-<p align="center">
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=shreenathub&color=blue&style=flat-square" alt="Profile views" />
 </p>
 
